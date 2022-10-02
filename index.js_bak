@@ -1,0 +1,123 @@
+// IMPORTS
+import express from 'express' 
+import cors from 'cors'
+import { join, dirname } from 'path'
+import { Low, JSONFile } from 'lowdb'
+import { fileURLToPath } from 'url'
+import bodyParser from 'body-parser'
+import path from 'path'
+
+// CONSTANTS
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const file = join(__dirname, 'db.json')
+const adapter = new JSONFile(file)
+const db = new Low(adapter)
+
+const app = express()
+app.use(cors())
+// app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }));
+
+const PORT = 4000
+
+// CLASSES
+function User(name){
+	this.name = name
+	this.id = Date.now()
+	this.mangas = []
+	
+	this.addManga = function(id, chapter) {
+		this.mangas.push({
+			id: id, last_chapter_read: chapter
+		})
+	}
+	this.readManga = function(id,chapter) {
+		let mangaId = this.chapter.findId(x => x.id == id)
+		this.mangas[mangaId].last_chapter_read = chapter
+	}
+}
+
+function Manga(params){
+		[
+			this.url,
+			this.id,
+			this.nom,
+			this.art,
+			this.last_update
+		] = params
+	this.updataManga = function(last_chapter){
+		this.last_update = last_chapter
+	}
+}
+
+// FUNCTIONS
+const DEBUG = (msg) => {
+	const debug = true
+	debug && console.log("DEBUG => ", msg)
+}
+
+async function readAll(res, item){
+		await db.read()
+		DEBUG(db.data[item])
+		return res.json(db.data[item])
+}
+
+async function readOne(res, id, collection){
+		DEBUG(`Collection:: ${collection}; Item:: ${id}`)
+		await db.read()
+		const item = db.data[collection].find(x => x.id == id) 
+		DEBUG(item ? item : `item not found in collection :: ${collection}`)
+		return res.json(item ? item : `item not found in collection :: ${collection}`)
+}
+
+async function addOne(res, name, collection, Class){
+	DEBUG(`Collection:: ${collection}; Item:: ${name}`)
+	await db.read()
+	const bdd = db.data[collection]
+	const already_exist = bdd.find(entity => entity.name == name)
+	if (already_exist){
+		DEBUG( `There is already an entity in the collection ${collection} with the name ${name}.`)
+		return res.json({error: `There is already an entity in the collection ${collection} with the name ${name}.`})
+	}
+	else DEBUG(`The name ${name} is free`)
+	db.data.users.push(new Class(name))
+	await db.write()
+	return res.json({ success: 'Success !!'})
+}
+
+// MIDDLEWARES
+app.get('/', (req, res) => {
+	res.sendFile(path.join(__dirname, './index.html'))
+})
+app.get('/users', (req, res, debug) => {
+	readAll(res, 'users', debug)
+})
+
+app.get('/mangas', (req, res, debug) => {
+	readAll(res, 'mangas', debug)
+})
+
+
+app.get('/user/:id', (req, res, debug) => {
+	readOne(res, req.params.id, "users")
+})
+
+app.get('/manga/:name', (req, res, debug) => {
+	readOne(res, req.params.name, "manga")
+})
+
+app.post('/post/user', (req,res, debug) => {
+	addOne(res, req.body.name, 'users', User)
+})
+
+app.post('/post/manga', (req,res, debug) => {
+	addOne(res, req.body.name, 'mangas', Manga)
+})
+
+app.post('/post/data/test', (req,res) => {
+	console.log(req.body)
+})
+
+app.listen(PORT, () => {
+	console.log('Server connected on port ', PORT)
+})

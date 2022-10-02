@@ -1,0 +1,1326 @@
+{
+  "users": [
+    {
+      "name": "stan",
+      "id": 1651555107475,
+      "mangas": []
+    },
+    {
+      "name": "Sarah",
+      "id": 1651622085936,
+      "mangas": []
+    },
+    {
+      "id": 1651625855126,
+      "name": "Marius",
+      "mangas": []
+    },
+    {
+      "name": "Marius",
+      "id": 1652326774884,
+      "mangas": []
+    },
+    {
+      "name": "Moana",
+      "id": 1652327057915,
+      "mangas": []
+    }
+  ],
+  "mangas": [
+    {
+      "site": "readmanganato.com",
+      "code": "manga-em981495",
+      "art": "https://avt.mkklcdnv6temp.com/16/x/18-1583497746.jpg",
+      "author": "Tatsuya Endo",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Shounen"
+      ],
+      "last_update": "Jul 11,2022 - 08:59 AM",
+      "last_chapter": "SPY x FAMILY chapter Chapter 64.5",
+      "id": 1651968802965,
+      "name": "Spy X Family",
+      "chapter_list": [],
+      "nb_chapters": 84
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-va953509",
+      "art": "https://avt.mkklcdnv6temp.com/25/s/2-1583466695.jpg",
+      "author": "Oda Tomohito",
+      "tags": [
+        "Comedy",
+        "Romance",
+        "School life",
+        "Shounen"
+      ],
+      "last_update": "Aug 26,2022 - 23:21 PM",
+      "last_chapter": "Komi-san wa Komyushou Desu chapter Chapter 368: GloomyLoomy",
+      "id": 1651968825476,
+      "name": "Komi-San Wa Komyushou Desu",
+      "chapter_list": [],
+      "nb_chapters": 385
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-he984813",
+      "art": "https://avt.mkklcdnv6temp.com/41/a/20-1583574496.jpg",
+      "author": "Hiroyuki",
+      "tags": [
+        "Comedy",
+        "Romance",
+        "Slice of life"
+      ],
+      "last_update": "Aug 26,2022 - 05:00 AM",
+      "last_chapter": "Kanojo mo Kanojo chapter Chapter 113: Date with Nagisa (2)",
+      "id": 1651968961328,
+      "name": "Kanojo Mo Kanojo",
+      "chapter_list": [],
+      "nb_chapters": 114
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-tz953334",
+      "art": "https://avt.mkklcdnv6temp.com/19/y/2-1583466482.jpg",
+      "author": "Fuse",
+      "tags": [
+        "Kawakami Taiki",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Shounen"
+      ],
+      "last_update": "Jul 29,2022 - 05:47 AM",
+      "last_chapter": "Tensei Shitara Slime Datta Ken chapter Chapter 98",
+      "id": 1651969047950,
+      "name": "Tensei Shitara Slime Datta Ken",
+      "chapter_list": [],
+      "nb_chapters": 136
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-qm951521",
+      "art": "https://avt.mkklcdnv6temp.com/7/r/1-1583463967.jpg",
+      "author": "Rifujin Na Magonote",
+      "tags": [
+        "Fujikawa Yuka",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Harem",
+        "Mature",
+        "Romance",
+        "Seinen"
+      ],
+      "last_update": "Aug 13,2022 - 23:40 PM",
+      "last_chapter": "Mushoku Tensei - Isekai Ittara Honki Dasu chapter Chapter 83: Letter",
+      "id": 1651969091054,
+      "name": "Mushoku Tensei - Isekai Ittara Honki Dasu",
+      "chapter_list": [],
+      "nb_chapters": 103
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-gt984176",
+      "art": "https://avt.mkklcdnv6temp.com/16/h/20-1583501658.jpg",
+      "author": "Kwon Sun Kyu",
+      "tags": [
+        "Studio Chun",
+        "Lim Kyung-Bae",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Martial arts",
+        "Tragedy",
+        "Webtoons",
+        "Isekai"
+      ],
+      "last_update": "Aug 23,2022 - 22:33 PM",
+      "last_chapter": "Survival Story of a Sword King in a Fantasy World chapter Chapter 144",
+      "id": 1651969118059,
+      "name": "Survival Story Of A Sword King In A Fantasy World",
+      "chapter_list": [],
+      "nb_chapters": 145
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-iq985525",
+      "art": "https://avt.mkklcdnv6temp.com/19/u/21-1590641555.jpg",
+      "author": "Jihoon Jung (정지훈)",
+      "tags": [
+        "Jeong Ji-Hoon",
+        "정지훈",
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "last_update": "Jun 23,2022 - 16:44 PM",
+      "last_chapter": "The Boxer chapter Chapter 135",
+      "id": 1652139900987,
+      "name": "The Boxer",
+      "nb_chapters": 137
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-kr988352",
+      "art": "https://avt.mkklcdnv6temp.com/35/f/23-1614570443.jpg",
+      "author": "Kim Carnby",
+      "tags": [
+        "Psychological"
+      ],
+      "last_update": "Jul 28,2022 - 11:17 AM",
+      "last_chapter": "Shotgun Boy chapter Chapter 69",
+      "id": 1652140075650,
+      "name": "Shotgun Boy",
+      "nb_chapters": 70
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-bp978750",
+      "art": "https://avt.mkklcdnv6temp.com/15/q/16-1583494034.jpg",
+      "author": "Kim Carnby",
+      "tags": [
+        "Hwang Youngchan",
+        "Fantasy"
+      ],
+      "last_update": "Aug 31,2020 - 09:57 AM",
+      "last_chapter": "Sweet Home chapter Chapter 141",
+      "id": 1652140163810,
+      "name": "Sweet Home",
+      "nb_chapters": 142
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ef982288",
+      "art": "https://avt.mkklcdnv6temp.com/46/d/18-1583498891.jpg",
+      "author": "Kim Carnby",
+      "tags": [
+        "Action",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Seinen",
+        "Tragedy"
+      ],
+      "last_update": "Dec 10,2020 - 12:27 PM",
+      "last_chapter": "PIGPEN chapter Chapter 40",
+      "id": 1652140198548,
+      "name": "Pigpen",
+      "nb_chapters": 41
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ds980701",
+      "art": "https://avt.mkklcdnv6temp.com/38/p/17-1583496655.jpg",
+      "author": "Takumi Fukui",
+      "tags": [
+        "Shinya Umemura",
+        "Chika Aji",
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Historical",
+        "Martial arts",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 17,2022 - 22:56 PM",
+      "last_chapter": "Record of Ragnarok chapter Chapter 66: Ideate and Create",
+      "id": 1652140237867,
+      "name": "Record Of Ragnarok",
+      "nb_chapters": 79
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-eb982310",
+      "art": "https://avt.mkklcdnv6temp.com/46/z/18-1583498927.jpg",
+      "author": "Otosama",
+      "tags": [
+        "Comedy",
+        "Cooking",
+        "Supernatural"
+      ],
+      "last_update": "Aug 25,2022 - 20:57 PM",
+      "last_chapter": "Bad Girl-Exorcist Reina chapter Vol.5 Chapter 55: Exorcism #55 - Sneaking Out",
+      "id": 1653093926630,
+      "name": "Bad Girl-Exorcist Reina",
+      "nb_chapters": 61
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-lb989036",
+      "art": "https://avt.mkklcdnv6temp.com/13/n/24-1621400817.jpg",
+      "author": "Furukawa Itsutsuse",
+      "tags": [
+        "Comedy",
+        "Shounen",
+        "Slice of life"
+      ],
+      "last_update": "Aug 20,2022 - 22:53 PM",
+      "last_chapter": "Inu ni Nattara Suki na Hito ni Hirowareta chapter Vol.6 Chapter 41: Attack! Inari's Army!",
+      "id": 1653111884949,
+      "name": "Inu Ni Nattara Suki Na Hito Ni Hirowareta",
+      "nb_chapters": 52
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-cv980130",
+      "art": "https://avt.mkklcdnv6temp.com/17/f/17-1583495880.jpg",
+      "author": "Yui Igarashi",
+      "tags": [
+        "Comedy",
+        "Romance",
+        "Seinen"
+      ],
+      "last_update": "Aug 11,2022 - 05:46 AM",
+      "last_chapter": "Drawing While Masturbating chapter Vol.6 Chapter 48: 48th Manuscript",
+      "id": 1653111913887,
+      "name": "Drawing While Masturbating",
+      "nb_chapters": 48
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-kj988166",
+      "art": "https://avt.mkklcdnv6temp.com/27/o/23-1613752646.jpg",
+      "author": "Akito Aihara",
+      "tags": [
+        "Comedy",
+        "Cooking",
+        "School life",
+        "Seinen"
+      ],
+      "last_update": "Aug 20,2022 - 05:23 AM",
+      "last_chapter": "New Normal chapter Vol.4 Chapter 22",
+      "id": 1653111925380,
+      "name": "New Normal",
+      "nb_chapters": 24
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-bl978994",
+      "art": "https://avt.mkklcdnv6temp.com/24/t/16-1583494356.jpg",
+      "author": "Hideki",
+      "tags": [
+        "Comedy",
+        "Shounen"
+      ],
+      "last_update": "Aug 05,2022 - 09:39 AM",
+      "last_chapter": "The Story of an Onee-San Who Wants to Keep a High School Boy chapter Vol.10 Chapter 268",
+      "id": 1653111937861,
+      "name": "The Story Of An Onee-San Who Wants To Keep A High School Boy",
+      "nb_chapters": 271
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-lb988758",
+      "art": "https://avt.mkklcdnv6temp.com/2/j/24-1617727947.jpg",
+      "author": "Yuichi Hiiragi",
+      "tags": [
+        "Comedy",
+        "Mature",
+        "Romance",
+        "School life",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Jun 22,2022 - 08:32 AM",
+      "last_chapter": "Haite Kudasai, Takamine-san chapter Chapter 39: Please Grant My Wish",
+      "id": 1653111946133,
+      "name": "Haite Kudasai, Takamine-San",
+      "nb_chapters": 39
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-gt983754",
+      "art": "https://avt.mkklcdnv6temp.com/50/n/19-1583501012.jpg",
+      "author": "Yuu Tsurusaki",
+      "tags": [
+        "Shin Ikezawa",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Gender bender",
+        "Romance",
+        "Shounen"
+      ],
+      "last_update": "Aug 17,2022 - 11:14 AM",
+      "last_chapter": "Fantasy Bishoujo Juniku Ojisan to chapter Chapter 118: Fabiniku Ojisan And Assault",
+      "id": 1653111959469,
+      "name": "Fantasy Bishoujo Juniku Ojisan To",
+      "nb_chapters": 136
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ew981679",
+      "art": "https://avt.mkklcdnv6temp.com/23/v/18-1583498023.jpg",
+      "author": "Muneyuki Kaneshiro",
+      "tags": [
+        "Yuusuke Nomura",
+        "Action",
+        "Drama",
+        "Shounen",
+        "Sports"
+      ],
+      "last_update": "Aug 26,2022 - 17:27 PM",
+      "last_chapter": "Blue Lock chapter Chapter 185: Rebirth",
+      "id": 1653111967735,
+      "name": "Blue Lock",
+      "nb_chapters": 188
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-by979281",
+      "art": "https://avt.mkklcdnv6temp.com/35/o/16-1583494746.jpg",
+      "author": "Link",
+      "tags": [
+        "Savan",
+        "Drama",
+        "Ecchi",
+        "Fantasy",
+        "Harem",
+        "Seinen",
+        "Smut"
+      ],
+      "last_update": "Apr 30,2022 - 05:17 AM",
+      "last_chapter": "World's End Harem - Fantasia chapter Vol.8 Chapter 33: The Nobles' Scheme",
+      "id": 1653111989012,
+      "name": "World's End Harem - Fantasia",
+      "nb_chapters": 55
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-es982201",
+      "art": "https://avt.mkklcdnv6temp.com/42/w/18-1583498761.jpg",
+      "author": "Hotondoshindeiru",
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Seinen"
+      ],
+      "last_update": "Aug 03,2022 - 09:19 AM",
+      "last_chapter": "Isekai Ojisan chapter Chapter 43",
+      "id": 1653112010179,
+      "name": "Isekai Ojisan",
+      "nb_chapters": 53
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-wh973642",
+      "art": "https://avt.mkklcdnv6temp.com/34/n/14-1583490953.jpg",
+      "author": "Soborou",
+      "tags": [
+        "Adult",
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School life",
+        "Seinen"
+      ],
+      "last_update": "Jun 19,2022 - 14:53 PM",
+      "last_chapter": "Why are you here Sensei!? chapter Chapter 110",
+      "id": 1653112062247,
+      "name": "Why Are You Here Sensei!?",
+      "nb_chapters": 119
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ne952013",
+      "art": "https://avt.mkklcdnv6temp.com/24/r/1-1583464665.jpg",
+      "author": "Cool Kyoushinsha",
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Slice of life"
+      ],
+      "last_update": "Aug 26,2022 - 23:53 PM",
+      "last_chapter": "Kobayashi-san Chi no Maid Dragon chapter Chapter 123: Tooru and Mother I",
+      "id": 1653112062730,
+      "name": "Kobayashi-San Chi No Maid Dragon",
+      "nb_chapters": 123
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ld989112",
+      "art": "https://avt.mkklcdnv6temp.com/16/t/24-1622607605.jpg",
+      "author": "Kuze Ran",
+      "tags": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School life",
+        "Shounen"
+      ],
+      "last_update": "Aug 24,2022 - 00:02 AM",
+      "last_chapter": "My Charms Are Wasted On Kuroiwa Medaka chapter Chapter 58: That Bastard and a Debriefing",
+      "id": 1653112063026,
+      "name": "My Charms Are Wasted On Kuroiwa Medaka",
+      "nb_chapters": 60
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-hn984796",
+      "art": "https://avt.mkklcdnv6temp.com/40/f/20-1583573584.jpg",
+      "author": "Ant Studio - Daul",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "last_update": "Jun 13,2022 - 23:25 PM",
+      "last_chapter": "Dungeon Reset chapter Chapter 128",
+      "id": 1653112063425,
+      "name": "Dungeon Reset",
+      "nb_chapters": 129
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ba978757",
+      "art": "https://avt.mkklcdnv6temp.com/15/x/16-1583494043.jpg",
+      "author": "Munmun",
+      "tags": [
+        "Butcha U",
+        "Ecchi",
+        "Fantasy",
+        "Harem"
+      ],
+      "last_update": "Aug 25,2022 - 06:05 AM",
+      "last_chapter": "Sekkaku Cheat wo Moratte Isekai ni Teni shita n dakara, Suki na you ni Ikitemitai chapter Chapter 26",
+      "id": 1653112063627,
+      "name": "Sekkaku Cheat Wo Moratte Isekai Ni Teni Shita N Dakara, Suki Na You Ni Ikitemitai",
+      "nb_chapters": 29
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-zd976712",
+      "art": "https://avt.mkklcdnv6temp.com/29/q/15-1583492557.jpg",
+      "author": "Baba Okina",
+      "tags": [
+        "Kakashi Asahiro",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Jul 29,2022 - 00:04 AM",
+      "last_chapter": "Kumo desu ga, nani ka? chapter Vol.3 Bonus Short Comic: Whole Roasted Monkey",
+      "id": 1653112064067,
+      "name": "Kumo Desu Ga, Nani Ka?",
+      "nb_chapters": 159
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-rh953142",
+      "art": "https://avt.mkklcdnv6temp.com/13/c/2-1583466207.jpg",
+      "author": "Azumi Kei",
+      "tags": [
+        "Kino Kotora",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Harem",
+        "Romance",
+        "Shounen"
+      ],
+      "last_update": "Aug 19,2022 - 09:25 AM",
+      "last_chapter": "Tsuki ga Michibiku Isekai Douchuu chapter Chapter 77: Lime’s very popular",
+      "id": 1653339537855,
+      "name": "Tsuki Ga Michibiku Isekai Douchuu",
+      "nb_chapters": 81
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-bs978875",
+      "art": "https://avt.mkklcdnv6temp.com/20/g/16-1583494198.jpg",
+      "author": "Fukuda Shinichi",
+      "tags": [
+        "Comedy",
+        "Romance",
+        "School life",
+        "Seinen",
+        "Shounen",
+        "Slice of life"
+      ],
+      "last_update": "Aug 18,2022 - 23:26 PM",
+      "last_chapter": "Sono Bisque Doll wa Koi wo suru chapter Chapter 79",
+      "id": 1653341771200,
+      "name": "Sono Bisque Doll Wa Koi Wo Suru",
+      "nb_chapters": 89
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-zd976838",
+      "art": "https://avt.mkklcdnv6temp.com/31/g/15-1583492700.jpg",
+      "author": "Nishi Osamu",
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "School life",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 20,2022 - 08:53 AM",
+      "last_chapter": "Mairimashita! Iruma-kun chapter Chapter 264: The Final Bell",
+      "id": 1653342924051,
+      "name": "Mairimashita! Iruma-Kun",
+      "nb_chapters": 290
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-lp988998",
+      "art": "https://avt.mkklcdnv6temp.com/11/w/24-1620229945.jpg",
+      "author": "Tatsu Yukinobu",
+      "tags": [
+        "Action",
+        "Sci fi",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 23,2022 - 00:32 AM",
+      "last_chapter": "Dandadan chapter Chapter 70",
+      "id": 1653343039437,
+      "name": "Dandadan",
+      "nb_chapters": 72
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-kf987688",
+      "art": "https://avt.mkklcdnv6temp.com/8/b/23-1610985774.jpg",
+      "author": "Jeogyeom",
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "last_update": "Jun 14,2022 - 01:35 AM",
+      "last_chapter": "Save me, princess chapter Chapter 42",
+      "id": 1653343152210,
+      "name": "Save Me, Princess",
+      "nb_chapters": 42
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-mj990066",
+      "art": "https://avt.mkklcdnv6temp.com/8/m/25-1637514943.jpg",
+      "author": "Giba-Chan",
+      "tags": [
+        "Ecchi",
+        "Fantasy",
+        "Seinen"
+      ],
+      "last_update": "Aug 13,2022 - 18:49 PM",
+      "last_chapter": "The Apothecary Is Gonna Make This Ragged Elf Happy chapter Chapter 55",
+      "id": 1653343222705,
+      "name": "The Apothecary Is Gonna Make This Ragged Elf Happy",
+      "nb_chapters": 56
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-kg987489",
+      "art": "https://avt.mkklcdnv6temp.com/49/v/22-1609298268.jpg",
+      "author": "Ren Sakuragi",
+      "tags": [
+        "Drama",
+        "Romance",
+        "School life",
+        "Seinen",
+        "Shoujo ai",
+        "Yuri"
+      ],
+      "last_update": "Aug 24,2022 - 07:24 AM",
+      "last_chapter": "Anemone is in Heat chapter Chapter 22: Cultural Festival (1)",
+      "id": 1653343253224,
+      "name": "Anemone Is In Heat",
+      "nb_chapters": 27
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-ek982245",
+      "art": "https://avt.mkklcdnv6temp.com/44/n/18-1583498829.jpg",
+      "author": "Sugito Akira",
+      "tags": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Jun 12,2022 - 20:08 PM",
+      "last_chapter": "MOMO: The Blood Taker chapter Chapter 48: New Job?",
+      "id": 1653343265364,
+      "name": "Momo: The Blood Taker",
+      "nb_chapters": 49
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-dn980422",
+      "art": "https://avt.mkklcdnv6temp.com/28/c/17-1583496268.jpg",
+      "author": "Tatsuki Fujimoto",
+      "tags": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Jul 13,2022 - 00:29 AM",
+      "last_chapter": "Chainsaw Man chapter Chapter 98",
+      "id": 1653343428629,
+      "name": "Chainsaw Man",
+      "nb_chapters": 98
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-je986987",
+      "art": "https://avt.mkklcdnv6temp.com/29/c/22-1603098689.jpg",
+      "author": "Kajimoto Akari",
+      "tags": [
+        "Comedy",
+        "Horror",
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 16,2022 - 01:21 AM",
+      "last_chapter": "Kuchi ga Saketemo Kimi ni wa (2020) chapter Chapter 48",
+      "id": 1653406402586,
+      "name": "Kuchi Ga Saketemo Kimi Ni Wa (2020)",
+      "nb_chapters": 47
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-hf984788",
+      "art": "https://avt.mkklcdnv6temp.com/39/k/20-1583502566.jpg",
+      "author": "Nagaoka Taichi",
+      "tags": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "School life"
+      ],
+      "last_update": "Aug 22,2022 - 23:58 PM",
+      "last_chapter": "Please Go Home, Akutsu-san! chapter Chapter 116",
+      "id": 1653406446331,
+      "name": "Please Go Home, Akutsu-San!",
+      "nb_chapters": 137
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-if986014",
+      "art": "https://avt.mkklcdnv6temp.com/39/y/21-1595983010.jpg",
+      "author": "Risumai",
+      "tags": [
+        "Hanyuu",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Seinen"
+      ],
+      "last_update": "Aug 21,2022 - 19:22 PM",
+      "last_chapter": "Cheat skill ",
+      "id": 1653406471281,
+      "name": "Cheat Skill ",
+      "nb_chapters": 20
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-nb990510",
+      "art": "https://avt.mkklcdnv6temp.com/27/u/25-1644927135.jpg",
+      "author": "Sing N Song (싱숑)",
+      "tags": [
+        "S-Cynan",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Webtoons",
+        "Manhwa"
+      ],
+      "last_update": "Aug 23,2022 - 04:10 AM",
+      "last_chapter": "The World After the Fall chapter Chapter 36",
+      "id": 1653406501320,
+      "name": "The World After The Fall",
+      "nb_chapters": 36
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-da980935",
+      "art": "https://avt.mkklcdnv6temp.com/46/v/17-1583496953.jpg",
+      "author": "Narack",
+      "tags": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Sci fi",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 23,2022 - 17:00 PM",
+      "last_chapter": "How to Kill a God chapter Chapter 70",
+      "id": 1653406526327,
+      "name": "How To Kill A God",
+      "nb_chapters": 71
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-nc990511",
+      "art": "https://avt.mkklcdnv6temp.com/27/v/25-1644927342.jpg",
+      "author": "Synecdoche",
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Harem"
+      ],
+      "last_update": "Jul 31,2022 - 08:16 AM",
+      "last_chapter": "Shin Elf-san wa Yaserarenai. chapter Vol.2 Chapter 7: Invincible Cat",
+      "id": 1656934677521,
+      "name": "Shin Elf-San Wa Yaserarenai.",
+      "nb_chapters": 7
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-xc974359",
+      "art": "https://avt.mkklcdnv6temp.com/43/o/14-1583491257.jpg",
+      "author": "Synecdoche",
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Seinen"
+      ],
+      "last_update": "Jun 02,2021 - 23:27 PM",
+      "last_chapter": "Elf-san wa Yaserarenai. chapter Chapter 47",
+      "id": 1656934734348,
+      "name": "Elf-San Wa Yaserarenai.",
+      "nb_chapters": 50
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ba979135",
+      "art": "https://avt.mkklcdnv6temp.com/30/d/16-1583494554.jpg",
+      "author": "Akutami Gege",
+      "tags": [
+        "Action",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 22,2022 - 06:26 AM",
+      "last_chapter": "Jujutsu Kaisen chapter Chapter 194: Sakurajima Colony ④",
+      "id": 1656934848143,
+      "name": "Jujutsu Kaisen",
+      "nb_chapters": 203
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-in985922",
+      "art": "https://avt.mkklcdnv6temp.com/36/j/21-1595608305.jpg",
+      "author": "Matsumoto Naoya",
+      "tags": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Sci fi"
+      ],
+      "last_update": "Aug 05,2022 - 00:48 AM",
+      "last_chapter": "Kaiju No. 8 chapter Chapter 68",
+      "id": 1656934877412,
+      "name": "Kaiju No. 8",
+      "nb_chapters": 86
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-yn975522",
+      "art": "https://avt.mkklcdnv6temp.com/11/y/15-1583491892.jpg",
+      "author": "Aimoto Shou",
+      "tags": [
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Apr 01,2022 - 01:09 AM",
+      "last_chapter": "Kemono Jihen chapter Vol.15 Chapter 58: Choice",
+      "id": 1656934997456,
+      "name": "Kemono Jihen",
+      "nb_chapters": 74
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-bh978864",
+      "art": "https://avt.mkklcdnv6temp.com/19/v/16-1583494184.jpg",
+      "author": "Oh! Great",
+      "tags": [
+        "Nishio Ishin",
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance",
+        "School life",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Dec 21,2021 - 00:33 AM",
+      "last_chapter": "Bakemonogatari (Nishio Ishin) chapter Chapter 115",
+      "id": 1656935020041,
+      "name": "Bakemonogatari (Nishio Ishin)",
+      "nb_chapters": 114
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-lx952480",
+      "art": "https://avt.mkklcdnv6temp.com/40/v/1-1583465312.jpg",
+      "author": "Takeda Sun",
+      "tags": [
+        "Action",
+        "Drama",
+        "Ecchi",
+        "Mature",
+        "Mystery",
+        "Romance",
+        "School life",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Aug 21,2022 - 21:11 PM",
+      "last_chapter": "Gleipnir chapter Chapter 80",
+      "id": 1656935056634,
+      "name": "Gleipnir",
+      "nb_chapters": 83
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-bi978765",
+      "art": "https://avt.mkklcdnv6temp.com/16/f/16-1583494054.jpg",
+      "author": "Kaku Yuuji",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Historical",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Mar 29,2021 - 22:58 PM",
+      "last_chapter": "Hell's Paradise: Jigokuraku chapter Chapter 127 : [END]",
+      "id": 1656935096664,
+      "name": "Hell's Paradise: Jigokuraku",
+      "nb_chapters": 130
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-qj952992",
+      "art": "https://avt.mkklcdnv6temp.com/8/d/2-1583466007.jpg",
+      "author": "Miura Tsuina",
+      "tags": [
+        "Sakurai Gamon",
+        "Action",
+        "Drama",
+        "Horror",
+        "Mature",
+        "Mystery",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Mar 11,2020 - 10:31 AM",
+      "last_chapter": "Ajin chapter Chapter 77",
+      "id": 1656935161733,
+      "name": "Ajin",
+      "nb_chapters": 94
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-zn959122",
+      "art": "https://avt.mkklcdnv6temp.com/2/g/6-1583474178.jpg",
+      "author": "Kaitani Shinobu",
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Seinen"
+      ],
+      "last_update": "Jan 20,2016 - 18:32 PM",
+      "last_chapter": "Liar Game chapter Vol.16 Chapter 201 : Liar Game [End]",
+      "id": 1656935338254,
+      "name": "Liar Game",
+      "nb_chapters": 202
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-iw985931",
+      "art": "https://avt.mkklcdnv6temp.com/36/s/21-1595610189.jpg",
+      "author": "Dh Animations",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Psychological"
+      ],
+      "last_update": "Aug 27,2022 - 02:52 AM",
+      "last_chapter": "Dog Nigga chapter Chapter 36: Apples and Poop",
+      "id": 1656935702370,
+      "name": "Dog Nigga",
+      "nb_chapters": 37
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ic986137",
+      "art": "https://avt.mkklcdnv6temp.com/44/t/21-1596605732.jpg",
+      "author": "Shotan",
+      "tags": [
+        "Comedy",
+        "Romance",
+        "Shounen",
+        "Slice of life"
+      ],
+      "last_update": "Aug 21,2022 - 14:18 PM",
+      "last_chapter": "Kimi wa Meido-sama chapter Chapter 30: A lost paradise between you and me",
+      "id": 1656935736556,
+      "name": "Kimi Wa Meido-Sama",
+      "nb_chapters": 31
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-vn972848",
+      "art": "https://avt.mkklcdnv6temp.com/22/e/14-1583490540.jpg",
+      "author": "Boichi",
+      "tags": [
+        "Action",
+        "Drama",
+        "Mature",
+        "Sci fi",
+        "Seinen"
+      ],
+      "last_update": "Jul 04,2019 - 20:20 PM",
+      "last_chapter": "Origin chapter Chapter 87.5: Gaiden",
+      "id": 1656935812259,
+      "name": "Origin",
+      "nb_chapters": 87
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-jm987095",
+      "art": "https://avt.mkklcdnv6temp.com/33/m/22-1604079564.jpg",
+      "author": "Asou Haroc",
+      "tags": [
+        "Action",
+        "Psychological",
+        "Shounen"
+      ],
+      "last_update": "Feb 02,2021 - 23:16 PM",
+      "last_chapter": "Alice in Borderland Retry chapter Chapter 13: 1st Day of Birth [END]",
+      "id": 1656935915174,
+      "name": "Alice In Borderland Retry",
+      "nb_chapters": 13
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-ke988213",
+      "art": "https://avt.mkklcdnv6temp.com/29/j/23-1613923126.jpg",
+      "author": "Jeong Ji-Hoon",
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Tragedy"
+      ],
+      "last_update": "Feb 22,2021 - 19:04 PM",
+      "last_chapter": "The Horizon chapter Chapter 21",
+      "id": 1656936041666,
+      "name": "The Horizon",
+      "nb_chapters": 21
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-uz953408",
+      "art": "https://avt.mkklcdnv6temp.com/22/f/2-1583466567.jpg",
+      "author": "Asano Inio",
+      "tags": [
+        "Drama",
+        "School life",
+        "Sci fi",
+        "Seinen"
+      ],
+      "last_update": "Mar 05,2022 - 08:13 AM",
+      "last_chapter": "Dead Dead Demon's Dededededestruction chapter Chapter 100: chapter 100 [END]",
+      "id": 1656936127467,
+      "name": "Dead Dead Demon's Dededededestruction",
+      "nb_chapters": 113
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-ve952087",
+      "art": "https://avt.mkklcdnv6temp.com/27/g/1-1583464763.jpg",
+      "author": "Nagabe",
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Shounen",
+        "Supernatural"
+      ],
+      "last_update": "Jan 18,2022 - 03:15 AM",
+      "last_chapter": "Totsukuni no Shoujo chapter Chapter 53",
+      "id": 1656936180516,
+      "name": "Totsukuni No Shoujo",
+      "nb_chapters": 57
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-cc980059",
+      "art": "https://avt.mkklcdnv6temp.com/14/n/17-1583495788.jpg",
+      "author": "Minami Katsuhisa",
+      "tags": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Seinen"
+      ],
+      "last_update": "Jul 07,2022 - 07:44 AM",
+      "last_chapter": "The Fable chapter Vol.22 Chapter 240: Normal Man...",
+      "id": 1656936208522,
+      "name": "The Fable",
+      "nb_chapters": 242
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ep954372",
+      "art": "https://avt.mkklcdnv6temp.com/5/q/3-1583467857.jpg",
+      "author": "Hanazawa Kengo",
+      "tags": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mature",
+        "Mystery",
+        "Psychological",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Jan 17,2022 - 05:02 AM",
+      "last_chapter": "I am a Hero chapter Chapter 265: Epilogue",
+      "id": 1656936283015,
+      "name": "I Am A Hero",
+      "nb_chapters": 268
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ka960183",
+      "art": "https://avt.mkklcdnv6temp.com/41/w/6-1583475890.jpg",
+      "author": "Nihei Tsutomu",
+      "tags": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mature",
+        "Psychological",
+        "Sci fi",
+        "Seinen"
+      ],
+      "last_update": "Nov 24,2020 - 18:53 PM",
+      "last_chapter": "Blame! chapter Chapter 066",
+      "id": 1656936315694,
+      "name": "Blame!",
+      "nb_chapters": 77
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-hu984529",
+      "art": "https://avt.mkklcdnv6temp.com/50/t/25-1654656580.jpg",
+      "author": "Yaki Tomato",
+      "tags": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "last_update": "Jul 14,2022 - 04:08 AM",
+      "last_chapter": "An Evil Dragon That Was Sealed Away For 300 Years Became My Friend chapter Chapter 32",
+      "id": 1659316427379,
+      "name": "An Evil Dragon That Was Sealed Away For 300 Years Became My Friend",
+      "nb_chapters": 34
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-og991563",
+      "art": "https://avt.mkklcdnv6temp.com/21/y/26-1657364185.jpg",
+      "author": "Yaki Tomato",
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School life",
+        "Slice of life"
+      ],
+      "last_update": "Aug 24,2022 - 17:54 PM",
+      "last_chapter": "The Tsuntsuntsuntsuntsuntsun tsuntsuntsuntsuntsundere Girl Getting Less and Less Tsun Day by Day chapter Chapter 38",
+      "id": 1659316466836,
+      "name": "The Tsuntsuntsuntsuntsuntsun Tsuntsuntsuntsuntsundere Girl Getting Less And Less Tsun Day By Day",
+      "nb_chapters": 41
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-di981043",
+      "art": "https://avt.mkklcdnv6temp.com/50/q/17-1583497097.jpg",
+      "author": "Type-Moon",
+      "tags": [
+        "Action"
+      ],
+      "last_update": "Aug 28,2022 - 05:30 AM",
+      "last_chapter": "Fate/Grand Order -Epic of Remnant- Deep Sea Cyber-Paradise SE.RA.PH chapter Chapter 19.2: The Nutcracker Once More VI - 2",
+      "id": 1659316482204,
+      "name": "Fate/grand Order -Epic Of Remnant- Deep Sea Cyber-Paradise Se.ra.ph",
+      "nb_chapters": 47
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-jm986521",
+      "art": "https://avt.mkklcdnv6temp.com/10/g/22-1599497757.jpg",
+      "author": "Tomomi",
+      "tags": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Romance",
+        "Seinen",
+        "Supernatural"
+      ],
+      "last_update": "Jun 18,2022 - 05:32 AM",
+      "last_chapter": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru. chapter Vol.4 Chapter 22",
+      "id": 1661501699086,
+      "name": "Hachigatsu Kokonoka Boku Wa Kimi Ni Kuwareru.",
+      "nb_chapters": 22
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-sv970230",
+      "art": "https://avt.mkklcdnv6temp.com/24/b/13-1583488608.jpg",
+      "author": "Suzuki Kenya",
+      "tags": [
+        "Comedy",
+        "School life",
+        "Shounen"
+      ],
+      "last_update": "Mar 11,2019 - 16:17 PM",
+      "last_chapter": "Oshiete! Gyaruko-chan chapter Vol.5 Chapter 99",
+      "id": 1661501737889,
+      "name": "Oshiete! Gyaruko-Chan",
+      "nb_chapters": 108
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ce979661",
+      "art": "https://avt.mkklcdnv6temp.com/49/y/16-1583495260.jpg",
+      "author": "Souryuu",
+      "tags": [
+        "Comedy",
+        "Ecchi",
+        "School life",
+        "Seinen"
+      ],
+      "last_update": "Aug 19,2022 - 03:01 AM",
+      "last_chapter": "Burakku Gakkou ni Tsutomete Shimatta Sensei chapter Chapter 28: A Relentless Mouth Wave!",
+      "id": 1661501764083,
+      "name": "Burakku Gakkou Ni Tsutomete Shimatta Sensei",
+      "nb_chapters": 57
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-xo974749",
+      "art": "https://avt.mkklcdnv6temp.com/48/u/14-1583491433.jpg",
+      "author": "Marii Taiyou",
+      "tags": [
+        "Comedy",
+        "Cooking",
+        "Romance",
+        "School life",
+        "Seinen"
+      ],
+      "last_update": "Jul 09,2020 - 22:44 PM",
+      "last_chapter": "Gal Gohan chapter Vol.10 Chapter 68.2: Volume 10 Extras",
+      "id": 1661501784656,
+      "name": "Gal Gohan",
+      "nb_chapters": 71
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-yu976155",
+      "art": "https://avt.mkklcdnv6temp.com/21/s/15-1583492239.jpg",
+      "author": "Amazume Ryuta",
+      "tags": [
+        "Romance",
+        "School life"
+      ],
+      "last_update": "May 17,2018 - 09:06 AM",
+      "last_chapter": "Boku Dake Shitteru Ichinomiya-san chapter Chapter 18",
+      "id": 1661501991201,
+      "name": "Boku Dake Shitteru Ichinomiya-San",
+      "nb_chapters": 18
+    },
+    {
+      "site": "manganato.com",
+      "code": "manga-dq980799",
+      "art": "https://avt.mkklcdnv6temp.com/42/d/17-1583496779.jpg",
+      "author": "Kazutaka",
+      "tags": [
+        "Drama",
+        "Harem",
+        "Shounen",
+        "Smut"
+      ],
+      "last_update": "Mar 08,2021 - 17:15 PM",
+      "last_chapter": "Desuraba chapter Vol.2 Chapter 22: Supervision vs Masturbation 7",
+      "id": 1661502745591,
+      "name": "Desuraba",
+      "nb_chapters": 22
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-fa959683",
+      "art": "https://avt.mkklcdnv6temp.com/22/w/6-1583475066.jpg",
+      "author": "Miwa Shirow",
+      "tags": [
+        "Action",
+        "Adult",
+        "Doujinshi",
+        "Mature",
+        "Sci fi",
+        "Seinen"
+      ],
+      "last_update": "Jan 20,2016 - 13:00 PM",
+      "last_chapter": "Dogs: Bullets & Carnage chapter Vol.10 Chapter 101",
+      "id": 1661535386911,
+      "name": "Dogs: Bullets & Carnage",
+      "nb_chapters": 106
+    },
+    {
+      "site": "readmanganato.com",
+      "code": "manga-ag977815",
+      "art": "https://avt.mkklcdnv6temp.com/50/v/15-1583493491.jpg",
+      "author": "Naitou Kinosuke",
+      "tags": [
+        "Adventure",
+        "Fantasy",
+        "Harem",
+        "Romance",
+        "Shounen",
+        "Slice of life"
+      ],
+      "last_update": "Aug 27,2022 - 01:54 AM",
+      "last_chapter": "Isekai Nonbiri Nouka chapter Chapter 174",
+      "id": 1661629066255,
+      "name": "Isekai Nonbiri Nouka",
+      "nb_chapters": 174
+    }
+  ]
+}

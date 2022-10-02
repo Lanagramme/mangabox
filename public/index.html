@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Manga box</title>
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/css/styles.css">
+		<script defer src="/js/bootstrap.bundle.min.js"></script>
+    <script defer src="/js/jquery-3.6.0.min.js"></script>
+		<script defer src="/js/index.js"></script>
+	</head>
+  <body>
+		<div>
+			<h1>Manga Box</h1>
+		</div>
+		<div class="container">
+			<form class="g-1-auto">
+				<input type="text" class="form-control manga-search" id="add_manga" placeholder="Place url here">
+				<span class="mx-3 btn btn-primary" id="btn-add_manga">Ajouter manga<br></span>
+			</form>
+		</div>
+		<div class="container">
+			<h3>Sorties récentes</h3>
+			<div id="recent"></div>
+		</div>
+		<div class="container">
+			<h3>Tous les manga</h3>
+			<div class="center">
+				<div id="all"></div>
+			</div>
+		</div>
+		<template id="template-titre">
+			<div class="manga">
+				<div class="illust">
+					<img alt="image not found" src="">
+				</div>
+				<div>
+					<h3></h3>
+					<p>dernier chapitre:</p>
+					<a></a>
+				</div>
+			</div>
+  </body>
+  </html>

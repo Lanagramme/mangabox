@@ -1,0 +1,18 @@
+.d-grid {
+	display: grid!important;
+}
+
+.g-1-auto {
+	display: grid;
+	grid-template-columns: 1fr auto;
+}
+.g-auto-1 {
+	display: grid;
+	grid-template-columns: auto 1fr;
+}
+
+.illust img{	width: 100%; }
+#all { display: flex; flex-wrap: wrap; }
+.manga { width: 200px; margin: 10px; }
+.manga-search {height: fit-content;}
+.center {display: grid; place-items: center;}
